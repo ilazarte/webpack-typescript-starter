@@ -1,6 +1,7 @@
 # webpack-typescript-starter
 
-> based on typescriptlang.org guide. 
+Based on typescriptlang.org guide.
+Features Webpack 2 and Typescript 2 with React.
 
 ```bash
 npm install
