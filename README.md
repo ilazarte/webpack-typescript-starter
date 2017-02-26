@@ -1,6 +1,6 @@
-# pixi.js typescript
+# webpack-typescript-starter
 
-> Beginnings of pixi.js and typescript experiments. 
+> based on typescriptlang.org guide. 
 
 ```bash
 npm install
